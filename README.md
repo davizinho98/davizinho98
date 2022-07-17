@@ -5,7 +5,7 @@
 
 - :eyes: I’m interested in **becoming a back-end developer**
 
-- 📫 How to reach me **daviseles99@gmail.com**
+- 📫 How to reach me **daviseles99@gmail.com** | [LinkedIn](https://www.linkedin.com/in/davi-seles/ "LinkedIn")
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Davi Seles</h1>
-<h3 align="center">A Web Development Student at Trybe</h3>
+<h3 align="center">A Web Development Student</h3>
 
 - 🌱 I’m currently learning **MySQL, NodeJS**
 

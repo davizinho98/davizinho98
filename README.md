@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Davi Seles</h1>
 <h3 align="center">A Web Development Student</h3>
 
-- 🌱 I’m currently learning **MySQL, NodeJS**
+- 🌱 I’m currently learning **MongoDB, NodeJS**
 
 - :eyes: I’m interested in **becoming a back-end developer**
 
